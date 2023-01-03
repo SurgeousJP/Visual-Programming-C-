@@ -1,0 +1,16 @@
+C:\Users\tuanb\Downloads\C# Projects\KiemTraKyNang\bin\Debug\net6.0-windows\KTKN.exe
+C:\Users\tuanb\Downloads\C# Projects\KiemTraKyNang\bin\Debug\net6.0-windows\KTKN.deps.json
+C:\Users\tuanb\Downloads\C# Projects\KiemTraKyNang\bin\Debug\net6.0-windows\KTKN.runtimeconfig.json
+C:\Users\tuanb\Downloads\C# Projects\KiemTraKyNang\bin\Debug\net6.0-windows\KTKN.dll
+C:\Users\tuanb\Downloads\C# Projects\KiemTraKyNang\bin\Debug\net6.0-windows\KTKN.pdb
+C:\Users\tuanb\Downloads\C# Projects\KiemTraKyNang\obj\Debug\net6.0-windows\KTKN.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\KiemTraKyNang\obj\Debug\net6.0-windows\KTKN.csproj.ResolveComReference.cache
+C:\Users\tuanb\Downloads\C# Projects\KiemTraKyNang\obj\Debug\net6.0-windows\KTKN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanb\Downloads\C# Projects\KiemTraKyNang\obj\Debug\net6.0-windows\KTKN.AssemblyInfoInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\KiemTraKyNang\obj\Debug\net6.0-windows\KTKN.AssemblyInfo.cs
+C:\Users\tuanb\Downloads\C# Projects\KiemTraKyNang\obj\Debug\net6.0-windows\KTKN.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\KiemTraKyNang\obj\Debug\net6.0-windows\KTKN.dll
+C:\Users\tuanb\Downloads\C# Projects\KiemTraKyNang\obj\Debug\net6.0-windows\refint\KTKN.dll
+C:\Users\tuanb\Downloads\C# Projects\KiemTraKyNang\obj\Debug\net6.0-windows\KTKN.pdb
+C:\Users\tuanb\Downloads\C# Projects\KiemTraKyNang\obj\Debug\net6.0-windows\KTKN.genruntimeconfig.cache
+C:\Users\tuanb\Downloads\C# Projects\KiemTraKyNang\obj\Debug\net6.0-windows\ref\KTKN.dll

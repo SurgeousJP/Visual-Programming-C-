@@ -1,0 +1,6 @@
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net6.0\ReviewAll.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net6.0\ReviewAll.csproj.ResolveComReference.cache
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net6.0\ReviewAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net6.0\ReviewAll.AssemblyInfoInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net6.0\ReviewAll.AssemblyInfo.cs
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net6.0\ReviewAll.csproj.CoreCompileInputs.cache

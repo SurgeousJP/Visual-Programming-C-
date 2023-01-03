@@ -1,0 +1,13 @@
+C:\Users\tuanb\Downloads\C# Projects\Bai09\bin\Debug\Bai09.exe.config
+C:\Users\tuanb\Downloads\C# Projects\Bai09\bin\Debug\Bai09.exe
+C:\Users\tuanb\Downloads\C# Projects\Bai09\bin\Debug\Bai09.pdb
+C:\Users\tuanb\Downloads\C# Projects\Bai09\obj\Debug\Bai09.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\Bai09\obj\Debug\Bai09.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\C# Projects\Bai09\obj\Debug\Bai09.Properties.Resources.resources
+C:\Users\tuanb\Downloads\C# Projects\Bai09\obj\Debug\Bai09.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\C# Projects\Bai09\obj\Debug\Bai09.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\Bai09\obj\Debug\Bai09.exe
+C:\Users\tuanb\Downloads\C# Projects\Bai09\obj\Debug\Bai09.pdb
+C:\Users\tuanb\Downloads\C# Projects\Bai09\bin\Debug\Database.mdf
+C:\Users\tuanb\Downloads\C# Projects\Bai09\bin\Debug\Database_log.ldf
+C:\Users\tuanb\Downloads\C# Projects\Bai09\obj\Debug\Bai09.AD.resources

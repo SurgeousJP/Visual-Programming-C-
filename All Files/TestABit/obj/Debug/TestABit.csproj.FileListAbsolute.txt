@@ -1,0 +1,11 @@
+C:\Users\tuanb\Downloads\C# Projects\TestABit\bin\Debug\TestABit.exe.config
+C:\Users\tuanb\Downloads\C# Projects\TestABit\bin\Debug\TestABit.exe
+C:\Users\tuanb\Downloads\C# Projects\TestABit\bin\Debug\TestABit.pdb
+C:\Users\tuanb\Downloads\C# Projects\TestABit\obj\Debug\TestABit.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\TestABit\obj\Debug\TestABit.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\C# Projects\TestABit\obj\Debug\TestABit.Form1.resources
+C:\Users\tuanb\Downloads\C# Projects\TestABit\obj\Debug\TestABit.Properties.Resources.resources
+C:\Users\tuanb\Downloads\C# Projects\TestABit\obj\Debug\TestABit.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\C# Projects\TestABit\obj\Debug\TestABit.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\TestABit\obj\Debug\TestABit.exe
+C:\Users\tuanb\Downloads\C# Projects\TestABit\obj\Debug\TestABit.pdb

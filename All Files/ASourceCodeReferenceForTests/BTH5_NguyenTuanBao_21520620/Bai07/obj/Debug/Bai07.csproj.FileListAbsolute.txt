@@ -1,0 +1,11 @@
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\Bai07\bin\Debug\Bai07.exe.config
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\Bai07\bin\Debug\Bai07.exe
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\Bai07\bin\Debug\Bai07.pdb
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\Bai07\obj\Debug\Bai07.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\Bai07\obj\Debug\Bai07.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\Bai07\obj\Debug\Bai07.Properties.Resources.resources
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\Bai07\obj\Debug\Bai07.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\Bai07\obj\Debug\Bai07.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\Bai07\obj\Debug\Bai07.exe
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\Bai07\obj\Debug\Bai07.pdb
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\Bai07\obj\Debug\Bai07.Form1.resources

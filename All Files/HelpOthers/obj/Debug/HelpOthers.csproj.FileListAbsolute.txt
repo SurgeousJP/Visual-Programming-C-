@@ -1,0 +1,8 @@
+C:\Users\tuanb\Downloads\C# Projects\HelpOthers\bin\Debug\HelpOthers.exe.config
+C:\Users\tuanb\Downloads\C# Projects\HelpOthers\bin\Debug\HelpOthers.exe
+C:\Users\tuanb\Downloads\C# Projects\HelpOthers\bin\Debug\HelpOthers.pdb
+C:\Users\tuanb\Downloads\C# Projects\HelpOthers\obj\Debug\HelpOthers.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\HelpOthers\obj\Debug\HelpOthers.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\C# Projects\HelpOthers\obj\Debug\HelpOthers.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\HelpOthers\obj\Debug\HelpOthers.exe
+C:\Users\tuanb\Downloads\C# Projects\HelpOthers\obj\Debug\HelpOthers.pdb

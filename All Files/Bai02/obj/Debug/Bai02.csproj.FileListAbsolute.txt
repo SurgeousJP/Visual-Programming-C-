@@ -1,0 +1,11 @@
+C:\Users\tuanb\Downloads\C# Projects\Bai02\bin\Debug\Bai02.exe.config
+C:\Users\tuanb\Downloads\C# Projects\Bai02\bin\Debug\Bai02.exe
+C:\Users\tuanb\Downloads\C# Projects\Bai02\bin\Debug\Bai02.pdb
+C:\Users\tuanb\Downloads\C# Projects\Bai02\obj\Debug\Bai02.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\Bai02\obj\Debug\Bai02.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\C# Projects\Bai02\obj\Debug\Bai02.Form1.resources
+C:\Users\tuanb\Downloads\C# Projects\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+C:\Users\tuanb\Downloads\C# Projects\Bai02\obj\Debug\Bai02.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\C# Projects\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\Bai02\obj\Debug\Bai02.exe
+C:\Users\tuanb\Downloads\C# Projects\Bai02\obj\Debug\Bai02.pdb

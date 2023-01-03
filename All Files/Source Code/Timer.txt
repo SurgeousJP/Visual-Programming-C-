@@ -1,0 +1,77 @@
+using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Threading;
+using System.Drawing.Imaging;
+using System.Timers;
+
+namespace _21520620_NguyenTuanBao_KTGK
+{
+    internal class Program
+    {
+        // Khai bao cac object su dung (public static)
+        // Thread temp = new Thread((ThreadStart)( () => function used ))
+        // Cac thao tac Thread: start => chay tieu trinh, join => hop tieu trinh (tieu trinh chay xong moi chay tiep)
+        // setApartmentState -> chay tren thread khac ?
+        public static Form form = new Form();
+        public static Button btn_Start, btn_End;
+        public static System.Windows.Forms.Timer aTimer = new System.Windows.Forms.Timer();
+        public static TextBox display = new TextBox();
+        public static void OnClick_Start(Object obj, EventArgs ea)
+        {
+            aTimer.Start();
+        }
+
+        public static void OnClick_End(Object obj, EventArgs ea)
+        {
+            aTimer.Stop();
+        }
+
+        public static void TimerOnTick(Object obj, EventArgs ea)
+        {
+            display.Text = (int.Parse(display.Text) - 2).ToString();
+        }
+        static void Main(string[] args)
+        {
+            display.Text = "3600";
+            display.Location = new Point(200, 200);
+            display.Width = 100;
+            display.Height = 100;
+
+            btn_Start = new Button();
+            btn_Start.Text = "Start";
+            btn_Start.Location = new Point(200, 350);
+            btn_Start.Width = 100;
+            btn_Start.Height = 100;
+
+            btn_End = new Button();
+            btn_End.Text = "Start";
+            btn_End.Location = new Point(350, 350);
+            btn_End.Width = 100;
+            btn_End.Height = 100;
+
+            btn_Start.Click += OnClick_Start;
+            btn_End.Click += OnClick_End;
+
+            aTimer.Interval = 2000;
+            aTimer.Tick += TimerOnTick;
+            aTimer.Enabled = true;
+
+            form.Controls.Add(btn_End);
+            form.Controls.Add(btn_Start);
+
+            form.Controls.Add(display);
+            // Cac object su dung: new -> width/height -> location -> specific (color / text)
+            // eventhandler -> add
+            // form -> set size -> application.run(form)
+            form.Height = 800;
+            form.Width = 800;
+            Application.Run(form);
+        }
+    }
+}

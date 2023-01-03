@@ -1,0 +1,16 @@
+C:\Users\tuanb\Downloads\C# Projects\TransparentPanel\bin\Debug\TransparentPanel.exe.config
+C:\Users\tuanb\Downloads\C# Projects\TransparentPanel\bin\Debug\TransparentPanel.exe
+C:\Users\tuanb\Downloads\C# Projects\TransparentPanel\bin\Debug\TransparentPanel.pdb
+C:\Users\tuanb\Downloads\C# Projects\TransparentPanel\obj\Debug\TransparentPanel.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\TransparentPanel\obj\Debug\TransparentPanel.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\C# Projects\TransparentPanel\obj\Debug\TransparentPanel.Form1.resources
+C:\Users\tuanb\Downloads\C# Projects\TransparentPanel\obj\Debug\TransparentPanel.Properties.Resources.resources
+C:\Users\tuanb\Downloads\C# Projects\TransparentPanel\obj\Debug\TransparentPanel.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\C# Projects\TransparentPanel\obj\Debug\TransparentPanel.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\TransparentPanel\obj\Debug\TransparentPanel.exe
+C:\Users\tuanb\Downloads\C# Projects\TransparentPanel\obj\Debug\TransparentPanel.pdb
+C:\Users\tuanb\Downloads\C# Projects\TransparentPanel\bin\Debug\Interop.WMPLib.dll
+C:\Users\tuanb\Downloads\C# Projects\TransparentPanel\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tuanb\Downloads\C# Projects\TransparentPanel\obj\Debug\Interop.WMPLib.dll
+C:\Users\tuanb\Downloads\C# Projects\TransparentPanel\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tuanb\Downloads\C# Projects\TransparentPanel\obj\Debug\TransparentPanel.csproj.ResolveComReference.cache

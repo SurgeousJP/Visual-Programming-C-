@@ -1,0 +1,14 @@
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\GetThumbnailFromMP4\bin\Debug\GetThumbnailFromMP4.exe.config
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\GetThumbnailFromMP4\bin\Debug\GetThumbnailFromMP4.exe
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\GetThumbnailFromMP4\bin\Debug\GetThumbnailFromMP4.pdb
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\GetThumbnailFromMP4\bin\Debug\NReco.VideoConverter.LT.dll
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\GetThumbnailFromMP4\bin\Debug\NReco.VideoConverter.LT.xml
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\GetThumbnailFromMP4\obj\Debug\GetThumbnailFromMP4.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\GetThumbnailFromMP4\obj\Debug\GetThumbnailFromMP4.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\GetThumbnailFromMP4\obj\Debug\GetThumbnailFromMP4.Form1.resources
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\GetThumbnailFromMP4\obj\Debug\GetThumbnailFromMP4.Properties.Resources.resources
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\GetThumbnailFromMP4\obj\Debug\GetThumbnailFromMP4.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\GetThumbnailFromMP4\obj\Debug\GetThumbnailFromMP4.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\GetThumbnailFromMP4\obj\Debug\GetThumbnailFromMP4.csproj.CopyComplete
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\GetThumbnailFromMP4\obj\Debug\GetThumbnailFromMP4.exe
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\GetThumbnailFromMP4\obj\Debug\GetThumbnailFromMP4.pdb

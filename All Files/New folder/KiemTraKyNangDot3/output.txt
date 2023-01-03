@@ -1,0 +1,4 @@
+Sach|Sach|
+Truyen|Truyen|
+HarryPotter|HarryPotter|20000
+TieuThuyet|TieuThuyet|

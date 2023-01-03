@@ -1,0 +1,11 @@
+C:\Users\tuanb\Downloads\C# Projects\testClock\obj\Debug\testClock.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\testClock\obj\Debug\testClock.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\C# Projects\testClock\obj\Debug\analogClock.Form1.resources
+C:\Users\tuanb\Downloads\C# Projects\testClock\obj\Debug\testClock.Properties.Resources.resources
+C:\Users\tuanb\Downloads\C# Projects\testClock\obj\Debug\testClock.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\C# Projects\testClock\obj\Debug\testClock.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\testClock\bin\Debug\testClock.exe.config
+C:\Users\tuanb\Downloads\C# Projects\testClock\bin\Debug\testClock.exe
+C:\Users\tuanb\Downloads\C# Projects\testClock\bin\Debug\testClock.pdb
+C:\Users\tuanb\Downloads\C# Projects\testClock\obj\Debug\testClock.exe
+C:\Users\tuanb\Downloads\C# Projects\testClock\obj\Debug\testClock.pdb

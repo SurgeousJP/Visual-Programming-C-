@@ -1,0 +1,11 @@
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\TestBlur\obj\Debug\TestBlur.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\TestBlur\obj\Debug\TestBlur.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\TestBlur\obj\Debug\TestBlur.Properties.Resources.resources
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\TestBlur\obj\Debug\TestBlur.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\TestBlur\obj\Debug\TestBlur.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\TestBlur\bin\Debug\TestBlur.exe.config
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\TestBlur\bin\Debug\TestBlur.exe
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\TestBlur\bin\Debug\TestBlur.pdb
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\TestBlur\obj\Debug\TestBlur.exe
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\TestBlur\obj\Debug\TestBlur.pdb
+C:\Users\tuanb\Downloads\C# Projects\BTH5_NguyenTuanBao_21520620\TestBlur\obj\Debug\TestBlur.Form1.resources

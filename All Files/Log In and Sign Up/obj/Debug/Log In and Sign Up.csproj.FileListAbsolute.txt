@@ -1,0 +1,8 @@
+C:\Users\tuanb\Downloads\C# Projects\Log In and Sign Up\bin\Debug\Log In and Sign Up.exe.config
+C:\Users\tuanb\Downloads\C# Projects\Log In and Sign Up\bin\Debug\Log In and Sign Up.exe
+C:\Users\tuanb\Downloads\C# Projects\Log In and Sign Up\bin\Debug\Log In and Sign Up.pdb
+C:\Users\tuanb\Downloads\C# Projects\Log In and Sign Up\obj\Debug\Log In and Sign Up.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\Log In and Sign Up\obj\Debug\Log In and Sign Up.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\C# Projects\Log In and Sign Up\obj\Debug\Log In and Sign Up.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\Log In and Sign Up\obj\Debug\Log In and Sign Up.exe
+C:\Users\tuanb\Downloads\C# Projects\Log In and Sign Up\obj\Debug\Log In and Sign Up.pdb

@@ -1,0 +1,15 @@
+C:\Users\tuanb\Downloads\C# Projects\Lab02-Bai03\bin\Debug\net6.0\Lab02-Bai03.exe
+C:\Users\tuanb\Downloads\C# Projects\Lab02-Bai03\bin\Debug\net6.0\Lab02-Bai03.deps.json
+C:\Users\tuanb\Downloads\C# Projects\Lab02-Bai03\bin\Debug\net6.0\Lab02-Bai03.runtimeconfig.json
+C:\Users\tuanb\Downloads\C# Projects\Lab02-Bai03\bin\Debug\net6.0\Lab02-Bai03.dll
+C:\Users\tuanb\Downloads\C# Projects\Lab02-Bai03\bin\Debug\net6.0\Lab02-Bai03.pdb
+C:\Users\tuanb\Downloads\C# Projects\Lab02-Bai03\obj\Debug\net6.0\Lab02-Bai03.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\Lab02-Bai03\obj\Debug\net6.0\Lab02-Bai03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanb\Downloads\C# Projects\Lab02-Bai03\obj\Debug\net6.0\Lab02-Bai03.AssemblyInfoInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\Lab02-Bai03\obj\Debug\net6.0\Lab02-Bai03.AssemblyInfo.cs
+C:\Users\tuanb\Downloads\C# Projects\Lab02-Bai03\obj\Debug\net6.0\Lab02-Bai03.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\Lab02-Bai03\obj\Debug\net6.0\Lab02-Bai03.dll
+C:\Users\tuanb\Downloads\C# Projects\Lab02-Bai03\obj\Debug\net6.0\refint\Lab02-Bai03.dll
+C:\Users\tuanb\Downloads\C# Projects\Lab02-Bai03\obj\Debug\net6.0\Lab02-Bai03.pdb
+C:\Users\tuanb\Downloads\C# Projects\Lab02-Bai03\obj\Debug\net6.0\Lab02-Bai03.genruntimeconfig.cache
+C:\Users\tuanb\Downloads\C# Projects\Lab02-Bai03\obj\Debug\net6.0\ref\Lab02-Bai03.dll

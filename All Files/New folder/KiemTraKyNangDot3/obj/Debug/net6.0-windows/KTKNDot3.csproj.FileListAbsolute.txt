@@ -1,0 +1,16 @@
+C:\Users\tuanb\Downloads\C# Projects\New folder\KiemTraKyNangDot3\bin\Debug\net6.0-windows\KTKNDot3.exe
+C:\Users\tuanb\Downloads\C# Projects\New folder\KiemTraKyNangDot3\bin\Debug\net6.0-windows\KTKNDot3.deps.json
+C:\Users\tuanb\Downloads\C# Projects\New folder\KiemTraKyNangDot3\bin\Debug\net6.0-windows\KTKNDot3.runtimeconfig.json
+C:\Users\tuanb\Downloads\C# Projects\New folder\KiemTraKyNangDot3\bin\Debug\net6.0-windows\KTKNDot3.dll
+C:\Users\tuanb\Downloads\C# Projects\New folder\KiemTraKyNangDot3\bin\Debug\net6.0-windows\KTKNDot3.pdb
+C:\Users\tuanb\Downloads\C# Projects\New folder\KiemTraKyNangDot3\obj\Debug\net6.0-windows\KTKNDot3.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\New folder\KiemTraKyNangDot3\obj\Debug\net6.0-windows\KTKNDot3.csproj.ResolveComReference.cache
+C:\Users\tuanb\Downloads\C# Projects\New folder\KiemTraKyNangDot3\obj\Debug\net6.0-windows\KTKNDot3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanb\Downloads\C# Projects\New folder\KiemTraKyNangDot3\obj\Debug\net6.0-windows\KTKNDot3.AssemblyInfoInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\New folder\KiemTraKyNangDot3\obj\Debug\net6.0-windows\KTKNDot3.AssemblyInfo.cs
+C:\Users\tuanb\Downloads\C# Projects\New folder\KiemTraKyNangDot3\obj\Debug\net6.0-windows\KTKNDot3.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\New folder\KiemTraKyNangDot3\obj\Debug\net6.0-windows\KTKNDot3.dll
+C:\Users\tuanb\Downloads\C# Projects\New folder\KiemTraKyNangDot3\obj\Debug\net6.0-windows\refint\KTKNDot3.dll
+C:\Users\tuanb\Downloads\C# Projects\New folder\KiemTraKyNangDot3\obj\Debug\net6.0-windows\KTKNDot3.pdb
+C:\Users\tuanb\Downloads\C# Projects\New folder\KiemTraKyNangDot3\obj\Debug\net6.0-windows\KTKNDot3.genruntimeconfig.cache
+C:\Users\tuanb\Downloads\C# Projects\New folder\KiemTraKyNangDot3\obj\Debug\net6.0-windows\ref\KTKNDot3.dll

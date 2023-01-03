@@ -1,0 +1,6 @@
+C:\Users\tuanb\Downloads\C# Projects\BrightnessNSaturation\obj\Debug\net5.0\BrightnessNSaturation.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\BrightnessNSaturation\obj\Debug\net5.0\BrightnessNSaturation.csproj.ResolveComReference.cache
+C:\Users\tuanb\Downloads\C# Projects\BrightnessNSaturation\obj\Debug\net5.0\BrightnessNSaturation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanb\Downloads\C# Projects\BrightnessNSaturation\obj\Debug\net5.0\BrightnessNSaturation.AssemblyInfoInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\BrightnessNSaturation\obj\Debug\net5.0\BrightnessNSaturation.AssemblyInfo.cs
+C:\Users\tuanb\Downloads\C# Projects\BrightnessNSaturation\obj\Debug\net5.0\BrightnessNSaturation.csproj.CoreCompileInputs.cache

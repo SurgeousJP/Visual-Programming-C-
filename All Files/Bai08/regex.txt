@@ -1,0 +1,18 @@
+
+            isAllNumbers = Regex.IsMatch(temp_SoTK, @"^[0-9 ]+$");
+            
+            isAllCharacters = Regex.IsMatch(temp_TenKH, @"^[a-zA-Z]+$");
+            
+
+            }
+isAllNumbers, isAllCharacters
+            if (!isAllNumbers)
+            {
+                MessageBox.Show("Số tài khoản không hợp lệ !");
+                return;
+            }
+
+            if (!isAllCharacters)
+            {
+                MessageBox.Show("tên không hợp lệ!");
+                return;

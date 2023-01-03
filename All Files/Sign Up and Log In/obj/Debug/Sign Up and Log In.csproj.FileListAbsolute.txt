@@ -1,0 +1,13 @@
+C:\Users\tuanb\Downloads\C# Projects\Sign Up and Log In\bin\Debug\Database.mdf
+C:\Users\tuanb\Downloads\C# Projects\Sign Up and Log In\bin\Debug\Database_log.ldf
+C:\Users\tuanb\Downloads\C# Projects\Sign Up and Log In\bin\Debug\Sign Up and Log In.exe.config
+C:\Users\tuanb\Downloads\C# Projects\Sign Up and Log In\bin\Debug\Sign Up and Log In.exe
+C:\Users\tuanb\Downloads\C# Projects\Sign Up and Log In\bin\Debug\Sign Up and Log In.pdb
+C:\Users\tuanb\Downloads\C# Projects\Sign Up and Log In\obj\Debug\Sign Up and Log In.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\Sign Up and Log In\obj\Debug\Sign Up and Log In.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\C# Projects\Sign Up and Log In\obj\Debug\Sign_Up_and_Log_In.Properties.Resources.resources
+C:\Users\tuanb\Downloads\C# Projects\Sign Up and Log In\obj\Debug\Sign_Up_and_Log_In.Registration.resources
+C:\Users\tuanb\Downloads\C# Projects\Sign Up and Log In\obj\Debug\Sign Up and Log In.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\C# Projects\Sign Up and Log In\obj\Debug\Sign Up and Log In.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\Sign Up and Log In\obj\Debug\Sign Up and Log In.exe
+C:\Users\tuanb\Downloads\C# Projects\Sign Up and Log In\obj\Debug\Sign Up and Log In.pdb

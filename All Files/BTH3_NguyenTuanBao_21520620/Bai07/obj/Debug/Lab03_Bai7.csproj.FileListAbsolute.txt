@@ -1,0 +1,11 @@
+C:\Users\tuanb\Downloads\C# Projects\Lab03_Bai7\bin\Debug\Lab03_Bai7.exe.config
+C:\Users\tuanb\Downloads\C# Projects\Lab03_Bai7\bin\Debug\Lab03_Bai7.exe
+C:\Users\tuanb\Downloads\C# Projects\Lab03_Bai7\bin\Debug\Lab03_Bai7.pdb
+C:\Users\tuanb\Downloads\C# Projects\Lab03_Bai7\obj\Debug\Lab03_Bai7.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\Lab03_Bai7\obj\Debug\Lab03_Bai7.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\C# Projects\Lab03_Bai7\obj\Debug\Lab03_Bai7.Form1.resources
+C:\Users\tuanb\Downloads\C# Projects\Lab03_Bai7\obj\Debug\Lab03_Bai7.Properties.Resources.resources
+C:\Users\tuanb\Downloads\C# Projects\Lab03_Bai7\obj\Debug\Lab03_Bai7.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\C# Projects\Lab03_Bai7\obj\Debug\Lab03_Bai7.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\Lab03_Bai7\obj\Debug\Lab03_Bai7.exe
+C:\Users\tuanb\Downloads\C# Projects\Lab03_Bai7\obj\Debug\Lab03_Bai7.pdb

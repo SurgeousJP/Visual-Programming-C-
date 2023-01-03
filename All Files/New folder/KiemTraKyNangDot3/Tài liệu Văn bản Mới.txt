@@ -1,0 +1,4 @@
+100|0|Sach
+101|100|Truyen
+102|100|TieuThuyet
+2005|101|HarryPotter|20000

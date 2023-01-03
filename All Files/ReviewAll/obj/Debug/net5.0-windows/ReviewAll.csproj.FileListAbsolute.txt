@@ -1,0 +1,17 @@
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net5.0-windows\ReviewAll.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net5.0-windows\ReviewAll.csproj.ResolveComReference.cache
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net5.0-windows\ReviewAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net5.0-windows\ReviewAll.AssemblyInfoInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net5.0-windows\ReviewAll.AssemblyInfo.cs
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net5.0-windows\ReviewAll.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\bin\Debug\net5.0-windows\ReviewAll.exe
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\bin\Debug\net5.0-windows\ReviewAll.deps.json
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\bin\Debug\net5.0-windows\ReviewAll.runtimeconfig.json
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\bin\Debug\net5.0-windows\ReviewAll.runtimeconfig.dev.json
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\bin\Debug\net5.0-windows\ReviewAll.dll
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\bin\Debug\net5.0-windows\ReviewAll.pdb
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net5.0-windows\ReviewAll.dll
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net5.0-windows\refint\ReviewAll.dll
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net5.0-windows\ReviewAll.pdb
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net5.0-windows\ReviewAll.genruntimeconfig.cache
+C:\Users\tuanb\Downloads\C# Projects\ReviewAll\obj\Debug\net5.0-windows\ref\ReviewAll.dll

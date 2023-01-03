@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Q+Pj07pxnRyqTeZ6GU1mH5BmH86MSB0Z/723ma+i1S4Fljjz6D0U4kd6eB+lRd0pBcwaYqoTkYH2L5wNuYbLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tuanb\\Downloads\\C# Projects\\BrightnessNSaturation\\BrightnessNSaturation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tuanb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\tuanb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\tuanb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\tuanb\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

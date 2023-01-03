@@ -1,0 +1,24 @@
+C:\Users\tuanb\Downloads\C# Projects\ThiThuHanh_NguyenTuanBao_21520620\bin\Debug\ThiThuHanh_NguyenTuanBao_21520620.exe.config
+C:\Users\tuanb\Downloads\C# Projects\ThiThuHanh_NguyenTuanBao_21520620\bin\Debug\ThiThuHanh_NguyenTuanBao_21520620.exe
+C:\Users\tuanb\Downloads\C# Projects\ThiThuHanh_NguyenTuanBao_21520620\bin\Debug\ThiThuHanh_NguyenTuanBao_21520620.pdb
+C:\Users\tuanb\Downloads\C# Projects\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\C# Projects\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.DangNhap.resources
+C:\Users\tuanb\Downloads\C# Projects\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.Properties.Resources.resources
+C:\Users\tuanb\Downloads\C# Projects\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.QuanLyVeTau.resources
+C:\Users\tuanb\Downloads\C# Projects\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\C# Projects\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.exe
+C:\Users\tuanb\Downloads\C# Projects\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.pdb
+C:\Users\tuanb\Downloads\ThiThuHanh_NguyenTuanBao_21520620\bin\Debug\ThiThuHanh_NguyenTuanBao_21520620.exe.config
+C:\Users\tuanb\Downloads\ThiThuHanh_NguyenTuanBao_21520620\bin\Debug\ThiThuHanh_NguyenTuanBao_21520620.exe
+C:\Users\tuanb\Downloads\ThiThuHanh_NguyenTuanBao_21520620\bin\Debug\ThiThuHanh_NguyenTuanBao_21520620.pdb
+C:\Users\tuanb\Downloads\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.DangNhap.resources
+C:\Users\tuanb\Downloads\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.Properties.Resources.resources
+C:\Users\tuanb\Downloads\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.QuanLyVeTau.resources
+C:\Users\tuanb\Downloads\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.exe
+C:\Users\tuanb\Downloads\ThiThuHanh_NguyenTuanBao_21520620\obj\Debug\ThiThuHanh_NguyenTuanBao_21520620.pdb

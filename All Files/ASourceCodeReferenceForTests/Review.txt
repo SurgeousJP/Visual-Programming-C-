@@ -1,0 +1,40 @@
+BaiTH1
+- Random: new Random(), rnd.Next(minValue, maxValue)
+- DateTime -> new DateTime(year, month, day)
+           -> String.Format(format, dateTime)
+           -> get information given a dateTime
+- ArrayManipulation
+
+BaiTH2
+- System.IO -> file & folder manipulation
+            -> getallfiles -> Directory.GetFiles(path)
+	    -> getallfolders -> Directory.GetDirectories(path)
+            -> getName -> Path.GetFileName(path);
+- Basic OOP: attributes and properties
+             abstraction, encapsulation, inheritance, polymorphic 
+
+BaiTH3:
+- Paint Event
+- Change Color -> Back Color
+- MenuStrip -> ToolStripMenuItem, Items.AddRange(), TabIndex, ...
+- Dialog -> ShowDialog(), new, 
+- Button -> Click Event
+- Event closingForm, Application.Exit()...
+- enum -> Store an array of constant
+- ListView
+- Sql connection DB,...
+
+BaiTH4:
+- Keyboard event, mouse event 
+- DateTime -> suitable (en/vi,...)
+- Wmp -> add toolbox -> com_component -> wmp
+- Font style, rich textBox, handling bold/italic/underline
+- PassData -> simpleton Class method
+- textbox textChangedEvent
+- Copy file / Thread
+
+BaiTH5: GDI
+
+
+
+
