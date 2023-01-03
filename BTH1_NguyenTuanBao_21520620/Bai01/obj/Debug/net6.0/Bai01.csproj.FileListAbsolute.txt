@@ -1,0 +1,15 @@
+C:\Users\tuanb\Downloads\C# Projects\Bai01\bin\Debug\net6.0\Bai01.exe
+C:\Users\tuanb\Downloads\C# Projects\Bai01\bin\Debug\net6.0\Bai01.deps.json
+C:\Users\tuanb\Downloads\C# Projects\Bai01\bin\Debug\net6.0\Bai01.runtimeconfig.json
+C:\Users\tuanb\Downloads\C# Projects\Bai01\bin\Debug\net6.0\Bai01.dll
+C:\Users\tuanb\Downloads\C# Projects\Bai01\bin\Debug\net6.0\Bai01.pdb
+C:\Users\tuanb\Downloads\C# Projects\Bai01\obj\Debug\net6.0\Bai01.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\C# Projects\Bai01\obj\Debug\net6.0\Bai01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanb\Downloads\C# Projects\Bai01\obj\Debug\net6.0\Bai01.AssemblyInfoInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\Bai01\obj\Debug\net6.0\Bai01.AssemblyInfo.cs
+C:\Users\tuanb\Downloads\C# Projects\Bai01\obj\Debug\net6.0\Bai01.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\C# Projects\Bai01\obj\Debug\net6.0\Bai01.dll
+C:\Users\tuanb\Downloads\C# Projects\Bai01\obj\Debug\net6.0\refint\Bai01.dll
+C:\Users\tuanb\Downloads\C# Projects\Bai01\obj\Debug\net6.0\Bai01.pdb
+C:\Users\tuanb\Downloads\C# Projects\Bai01\obj\Debug\net6.0\Bai01.genruntimeconfig.cache
+C:\Users\tuanb\Downloads\C# Projects\Bai01\obj\Debug\net6.0\ref\Bai01.dll
