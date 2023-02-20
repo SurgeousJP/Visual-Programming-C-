@@ -1,0 +1,17 @@
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\bin\Debug\net6.0\TestRemoveVietnameseAccents.exe
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\bin\Debug\net6.0\TestRemoveVietnameseAccents.deps.json
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\bin\Debug\net6.0\TestRemoveVietnameseAccents.runtimeconfig.json
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\bin\Debug\net6.0\TestRemoveVietnameseAccents.dll
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\bin\Debug\net6.0\TestRemoveVietnameseAccents.pdb
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\obj\Debug\net6.0\TestRemoveVietnameseAccents.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\obj\Debug\net6.0\TestRemoveVietnameseAccents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\obj\Debug\net6.0\TestRemoveVietnameseAccents.AssemblyInfoInputs.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\obj\Debug\net6.0\TestRemoveVietnameseAccents.AssemblyInfo.cs
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\obj\Debug\net6.0\TestRemoveVietnameseAccents.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\obj\Debug\net6.0\TestRemoveVietnameseAccents.dll
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\obj\Debug\net6.0\refint\TestRemoveVietnameseAccents.dll
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\obj\Debug\net6.0\TestRemoveVietnameseAccents.pdb
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\obj\Debug\net6.0\TestRemoveVietnameseAccents.genruntimeconfig.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\obj\Debug\net6.0\ref\TestRemoveVietnameseAccents.dll
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\bin\Debug\net6.0\Diacritics.dll
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccents\obj\Debug\net6.0\TestRemoveVietnameseAccents.csproj.CopyComplete

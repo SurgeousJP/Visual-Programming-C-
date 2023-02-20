@@ -1,0 +1,73 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CSAudioVisualizationExampleVB
+</name>
+</assembly>
+<members>
+<member name="T:CSAudioVisualizationExampleVB.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CSAudioVisualizationExampleVB.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CSAudioVisualizationExampleVB.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:CSAudioVisualizationExampleVB.frmAudioVisualization">
+ <summary>
+ The main example of using the CSAudioVisualization library.
+ </summary>
+</member>
+<member name="M:CSAudioVisualizationExampleVB.frmAudioVisualization.frmAudioVisualization_Load(System.Object,System.EventArgs)">
+ <summary>
+ Form load
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioVisualizationExampleVB.frmAudioVisualization.btnStop_Click(System.Object,System.EventArgs)">
+ <summary>
+ Stop the visualization.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioVisualizationExampleVB.frmAudioVisualization.btnStart_Click(System.Object,System.EventArgs)">
+ <summary>
+ Start the visualization.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioVisualizationExampleVB.frmAudioVisualization.frmAudioVisualization_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+ <summary>
+ Safe exit.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioVisualizationExampleVB.frmAudioVisualization.cboRecorderMode_SelectedIndexChanged(System.Object,System.EventArgs)">
+ <summary>
+ Get and set the audio devices according to the capture mode.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioVisualizationExampleVB.frmAudioVisualization.cmdOrderLicense_Click(System.Object,System.EventArgs)">
+ <summary>
+ Check the license.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>

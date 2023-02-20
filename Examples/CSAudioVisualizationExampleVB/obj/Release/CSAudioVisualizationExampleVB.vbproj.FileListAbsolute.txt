@@ -1,0 +1,16 @@
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioVisualizationComponent\Component\Examples\CSAudioVisualizationExampleVB\bin\Release\CSAudioVisualizationExampleVB.exe.config
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioVisualizationComponent\Component\Examples\CSAudioVisualizationExampleVB\bin\Release\CSAudioVisualizationExampleVB.exe
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioVisualizationComponent\Component\Examples\CSAudioVisualizationExampleVB\bin\Release\CSAudioVisualizationExampleVB.pdb
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioVisualizationComponent\Component\Examples\CSAudioVisualizationExampleVB\bin\Release\CSAudioVisualizationExampleVB.xml
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioVisualizationComponent\Component\Examples\CSAudioVisualizationExampleVB\bin\Release\CSAudioVisualization.dll
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioVisualizationComponent\Component\Examples\CSAudioVisualizationExampleVB\bin\Release\CSCore.dll
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioVisualizationComponent\Component\Examples\CSAudioVisualizationExampleVB\bin\Release\CSAudioVisualization.pdb
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioVisualizationComponent\Component\Examples\CSAudioVisualizationExampleVB\obj\Release\CSAudioVisualizationExampleVB.frmAudioVisualization.resources
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioVisualizationComponent\Component\Examples\CSAudioVisualizationExampleVB\obj\Release\CSAudioVisualizationExampleVB.Resources.resources
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioVisualizationComponent\Component\Examples\CSAudioVisualizationExampleVB\obj\Release\CSAudioVisualizationExampleVB.vbproj.GenerateResource.cache
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioVisualizationComponent\Component\Examples\CSAudioVisualizationExampleVB\obj\Release\CSAudioVisualizationExampleVB.vbproj.CoreCompileInputs.cache
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioVisualizationComponent\Component\Examples\CSAudioVisualizationExampleVB\obj\Release\CSAudioVisualizationExampleVB.vbproj.CopyComplete
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioVisualizationComponent\Component\Examples\CSAudioVisualizationExampleVB\obj\Release\CSAudioVisualizationExampleVB.exe
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioVisualizationComponent\Component\Examples\CSAudioVisualizationExampleVB\obj\Release\CSAudioVisualizationExampleVB.xml
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioVisualizationComponent\Component\Examples\CSAudioVisualizationExampleVB\obj\Release\CSAudioVisualizationExampleVB.pdb
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioVisualizationComponent\Component\Examples\CSAudioVisualizationExampleVB\bin\Release\Credits.txt

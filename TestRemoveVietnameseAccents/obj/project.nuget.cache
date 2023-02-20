@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o3u85jZJCAOqDIJNmxKUiMZhEeFDl3VFv88AdIUcCZ1FkdRZ295yQrcxQUuf7StVO4IikLD8YP1HSifluZNftg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tuanb\\Downloads\\Visual-Programming-C-\\TestRemoveVietnameseAccents\\TestRemoveVietnameseAccents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tuanb\\.nuget\\packages\\diacritics\\3.3.14\\diacritics.3.3.14.nupkg.sha512"
+  ],
+  "logs": []
+}

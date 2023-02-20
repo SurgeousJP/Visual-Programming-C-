@@ -1,0 +1,11 @@
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestMultipleFormsToDeleteFiles\bin\Debug\TestMultipleFormsToDeleteFiles.exe.config
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestMultipleFormsToDeleteFiles\bin\Debug\TestMultipleFormsToDeleteFiles.exe
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestMultipleFormsToDeleteFiles\bin\Debug\TestMultipleFormsToDeleteFiles.pdb
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestMultipleFormsToDeleteFiles\obj\Debug\TestMultipleFormsToDeleteFiles.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestMultipleFormsToDeleteFiles\obj\Debug\TestMultipleFormsToDeleteFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestMultipleFormsToDeleteFiles\obj\Debug\TestMultipleFormsToDeleteFiles.FormStart.resources
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestMultipleFormsToDeleteFiles\obj\Debug\TestMultipleFormsToDeleteFiles.Properties.Resources.resources
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestMultipleFormsToDeleteFiles\obj\Debug\TestMultipleFormsToDeleteFiles.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestMultipleFormsToDeleteFiles\obj\Debug\TestMultipleFormsToDeleteFiles.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestMultipleFormsToDeleteFiles\obj\Debug\TestMultipleFormsToDeleteFiles.exe
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestMultipleFormsToDeleteFiles\obj\Debug\TestMultipleFormsToDeleteFiles.pdb

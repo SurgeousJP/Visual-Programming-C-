@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAudioVisualizer", "TestAudioVisualizer.csproj", "{1037C17A-A29E-48B0-923C-7D6BEC494C14}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AudioVisualizer", "..\Audio-Visualizer\Audio Visualizer\AudioVisualizer.csproj", "{DC93AF76-9BC1-4445-AA68-B19C8FB01A65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Mac|Any CPU = Mac|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1037C17A-A29E-48B0-923C-7D6BEC494C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1037C17A-A29E-48B0-923C-7D6BEC494C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1037C17A-A29E-48B0-923C-7D6BEC494C14}.Mac|Any CPU.ActiveCfg = Release|Any CPU
+		{1037C17A-A29E-48B0-923C-7D6BEC494C14}.Mac|Any CPU.Build.0 = Release|Any CPU
+		{1037C17A-A29E-48B0-923C-7D6BEC494C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1037C17A-A29E-48B0-923C-7D6BEC494C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC93AF76-9BC1-4445-AA68-B19C8FB01A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC93AF76-9BC1-4445-AA68-B19C8FB01A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC93AF76-9BC1-4445-AA68-B19C8FB01A65}.Mac|Any CPU.ActiveCfg = Mac|Any CPU
+		{DC93AF76-9BC1-4445-AA68-B19C8FB01A65}.Mac|Any CPU.Build.0 = Mac|Any CPU
+		{DC93AF76-9BC1-4445-AA68-B19C8FB01A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC93AF76-9BC1-4445-AA68-B19C8FB01A65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBE489D3-FCF6-4E68-9E27-C62BEB95B392}
+	EndGlobalSection
+EndGlobal

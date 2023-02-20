@@ -1,0 +1,17 @@
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\bin\Debug\TestAudioVisualizer.exe.config
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\bin\Debug\TestAudioVisualizer.exe
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\bin\Debug\TestAudioVisualizer.pdb
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\obj\Debug\TestAudioVisualizer.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\obj\Debug\TestAudioVisualizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\obj\Debug\TestAudioVisualizer.Properties.Resources.resources
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\obj\Debug\TestAudioVisualizer.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\obj\Debug\TestAudioVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\obj\Debug\TestAudioVisualizer.exe
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\obj\Debug\TestAudioVisualizer.pdb
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\bin\Debug\CSAudioVisualization.dll
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\bin\Debug\CSCore.dll
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\bin\Debug\CSAudioVisualization.pdb
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\bin\Debug\CSAudioVisualization.xml
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\bin\Debug\CSCore.xml
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\obj\Debug\TestAudioVisualizer.csproj.CopyComplete
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestAudioVisualizer\obj\Debug\TestAudioVisualizer.TestAudioVisualizer.resources

@@ -1,0 +1,17 @@
+
+using System.Reflection;
+SetDoubleBuffer(this, true);
+static void SetDoubleBuffer(Control ctl, bool DoubleBuffered)
+        {
+            try
+            {
+                typeof(Control).InvokeMember("DoubleBuffered",
+                    BindingFlags.NonPublic | BindingFlags.Instance | BindingFlags.SetProperty,
+                    null, ctl, new object[] { DoubleBuffered });
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }

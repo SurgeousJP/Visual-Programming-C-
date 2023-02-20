@@ -1,0 +1,13 @@
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccentsOnForm\bin\Debug\TestRemoveVietnameseAccentsOnForm.exe.config
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccentsOnForm\bin\Debug\TestRemoveVietnameseAccentsOnForm.exe
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccentsOnForm\bin\Debug\TestRemoveVietnameseAccentsOnForm.pdb
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccentsOnForm\obj\Debug\TestRemoveVietnameseAccentsOnForm.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccentsOnForm\obj\Debug\TestRemoveVietnameseAccentsOnForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccentsOnForm\obj\Debug\TestRemoveVietnameseAccentsOnForm.Form1.resources
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccentsOnForm\obj\Debug\TestRemoveVietnameseAccentsOnForm.Properties.Resources.resources
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccentsOnForm\obj\Debug\TestRemoveVietnameseAccentsOnForm.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccentsOnForm\obj\Debug\TestRemoveVietnameseAccentsOnForm.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccentsOnForm\obj\Debug\TestRemoveVietnameseAccentsOnForm.exe
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccentsOnForm\obj\Debug\TestRemoveVietnameseAccentsOnForm.pdb
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccentsOnForm\bin\Debug\Diacritics.dll
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TestRemoveVietnameseAccentsOnForm\obj\Debug\TestRemoveVietnameseAccentsOnForm.csproj.CopyComplete

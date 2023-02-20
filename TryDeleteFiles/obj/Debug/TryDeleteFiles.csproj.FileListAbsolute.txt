@@ -1,0 +1,11 @@
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TryDeleteFiles\obj\Debug\TryDeleteFiles.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TryDeleteFiles\obj\Debug\TryDeleteFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TryDeleteFiles\obj\Debug\TryDeleteFiles.Form1.resources
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TryDeleteFiles\obj\Debug\TryDeleteFiles.Properties.Resources.resources
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TryDeleteFiles\obj\Debug\TryDeleteFiles.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TryDeleteFiles\obj\Debug\TryDeleteFiles.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TryDeleteFiles\bin\Debug\TryDeleteFiles.exe.config
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TryDeleteFiles\bin\Debug\TryDeleteFiles.exe
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TryDeleteFiles\bin\Debug\TryDeleteFiles.pdb
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TryDeleteFiles\obj\Debug\TryDeleteFiles.exe
+C:\Users\tuanb\Downloads\Visual-Programming-C-\TryDeleteFiles\obj\Debug\TryDeleteFiles.pdb

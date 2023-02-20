@@ -1,0 +1,11 @@
+C:\Users\tuanb\Downloads\Visual-Programming-C-\PreventLagAndFlickeringOnControls\bin\Debug\PreventLagAndFlickeringOnControls.exe.config
+C:\Users\tuanb\Downloads\Visual-Programming-C-\PreventLagAndFlickeringOnControls\bin\Debug\PreventLagAndFlickeringOnControls.exe
+C:\Users\tuanb\Downloads\Visual-Programming-C-\PreventLagAndFlickeringOnControls\bin\Debug\PreventLagAndFlickeringOnControls.pdb
+C:\Users\tuanb\Downloads\Visual-Programming-C-\PreventLagAndFlickeringOnControls\obj\Debug\PreventLagAndFlickeringOnControls.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\PreventLagAndFlickeringOnControls\obj\Debug\PreventLagAndFlickeringOnControls.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\PreventLagAndFlickeringOnControls\obj\Debug\PreventLagAndFlickeringOnControls.Form1.resources
+C:\Users\tuanb\Downloads\Visual-Programming-C-\PreventLagAndFlickeringOnControls\obj\Debug\PreventLagAndFlickeringOnControls.Properties.Resources.resources
+C:\Users\tuanb\Downloads\Visual-Programming-C-\PreventLagAndFlickeringOnControls\obj\Debug\PreventLagAndFlickeringOnControls.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\PreventLagAndFlickeringOnControls\obj\Debug\PreventLagAndFlickeringOnControls.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\Visual-Programming-C-\PreventLagAndFlickeringOnControls\obj\Debug\PreventLagAndFlickeringOnControls.exe
+C:\Users\tuanb\Downloads\Visual-Programming-C-\PreventLagAndFlickeringOnControls\obj\Debug\PreventLagAndFlickeringOnControls.pdb

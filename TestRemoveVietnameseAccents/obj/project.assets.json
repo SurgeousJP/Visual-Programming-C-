@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Diacritics/3.3.14": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Diacritics.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Diacritics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diacritics/3.3.14": {
+      "sha512": "+niHopkfVAmg1pUau2UIzZ5GLNOPDm6X9EwNfMIMacPCsU0qFM17Cfi3oprL7frohAEZOtu1h6NAHmJfy/RcLQ==",
+      "type": "package",
+      "path": "diacritics/3.3.14",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "diacritics.3.3.14.nupkg.sha512",
+        "diacritics.nuspec",
+        "lib/net45/Diacritics.dll",
+        "lib/netstandard1.2/Diacritics.dll",
+        "lib/netstandard2.0/Diacritics.dll",
+        "lib/netstandard2.1/Diacritics.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Diacritics >= 3.3.14"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tuanb\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\tuanb\\Downloads\\Visual-Programming-C-\\TestRemoveVietnameseAccents\\TestRemoveVietnameseAccents.csproj",
+      "projectName": "TestRemoveVietnameseAccents",
+      "projectPath": "C:\\Users\\tuanb\\Downloads\\Visual-Programming-C-\\TestRemoveVietnameseAccents\\TestRemoveVietnameseAccents.csproj",
+      "packagesPath": "C:\\Users\\tuanb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tuanb\\Downloads\\Visual-Programming-C-\\TestRemoveVietnameseAccents\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\tuanb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Diacritics": {
+            "target": "Package",
+            "version": "[3.3.14, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
